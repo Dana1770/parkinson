@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.parkinson_project.app-mergeDebugResources-17:/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dana\\.gradle\\caches\\transforms-3\\1c11fcd5d741b7583794ec56efdeaa69\\transformed\\jetified-media2-session-1.2.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,162,258,353,482",
+                        "endColumns": "106,95,94,128,132",
+                        "endOffsets": "157,253,348,477,610"
+                    },
+                    "to": {
+                        "startLines": "10,14,15,16,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "885,1300,1396,1491,1620",
+                        "endColumns": "106,95,94,128,132",
+                        "endOffsets": "987,1391,1486,1615,1748"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dana\\.gradle\\caches\\transforms-3\\d12883dde0390e08dd2a1192741cec1b\\transformed\\browser-1.5.0\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,253,362",
+                        "endColumns": "99,97,108,100",
+                        "endOffsets": "150,248,357,458"
+                    },
+                    "to": {
+                        "startLines": "9,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "785,992,1090,1199",
+                        "endColumns": "99,97,108,100",
+                        "endOffsets": "880,1085,1194,1295"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dana\\.gradle\\caches\\transforms-3\\c4988ff80110f75080a936fc6f044848\\transformed\\core-1.10.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,1753",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,1849"
+                    }
+                }
+            ]
+        }
+    ]
+}
